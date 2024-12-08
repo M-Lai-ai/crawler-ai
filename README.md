@@ -1,4 +1,5 @@
 # Crawler AI
+[![Description de l'image](https://raw.githubusercontent.com/M-Lai-ai/logo/refs/heads/main/favicon.ico)](https://votre-lien-cible.com)
 
 Bienvenue dans **Crawler AI**, un outil ultra modulaire et robuste conçu pour explorer des sites web, extraire du contenu, télécharger des fichiers, et réécrire ce contenu à l’aide d’un Large Language Model (LLM). Ce projet est maintenu par **M-LAI** et se trouve sur le dépôt GitHub suivant : [https://github.com/M-Lai-ai/crawler-ai.git](https://github.com/M-Lai-ai/crawler-ai.git)
 
